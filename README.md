@@ -1,0 +1,2 @@
+# njir.js
+Jsku
